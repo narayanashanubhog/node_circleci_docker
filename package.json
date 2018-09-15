@@ -1,8 +1,8 @@
 {
-    "name": "Node app",
+    "name": "Nodeapp",
     "private": true,
     "version": "0.0.1",
-    "description": "Demo app ",
+    "description": "Demoapp ",
     "main": "app.js",
     "author": "Narayana Shanubhogh",
     "license": "You'd have to be mad to use this in production :-D",
